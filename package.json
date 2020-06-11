@@ -1,0 +1,13 @@
+{
+  "name": "mock-dependency",
+  "version": "1.0.0",
+  "description": "Exports a mock npm dependency. Useful for occasional issues with Meteor's pre-emptive module resolution",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avionapp/mock-dependency.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
